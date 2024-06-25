@@ -1,0 +1,12 @@
+.Slider2 .slider {
+    background-color: #ccc;
+    height: 300px;
+}
+.slider div{
+    padding: 8px;
+}
+.slider div img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}

@@ -1,0 +1,53 @@
+.Contact span {
+    color: var(--main-color);
+}
+.Contact{
+    transition: 0.5s;
+    color: var(--section-color);
+}
+form{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+form input , 
+form textarea{
+    padding: 0 15px ;
+    height: 40px ;
+    border : 1px solid #ccc ;
+    background-color: var(--body-bg);
+}
+form textarea{
+    height: 200px;
+    padding: 10px 15px;
+}
+
+form button{
+    padding: 10px 20px ;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: var(--main-color);
+    border: none;
+    width: 200px;
+}
+.map{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+    height: 250px;
+}
+.map iframe{
+    height: 100%;
+}
+.location{
+    transition: 0.5s;
+    background-color: var(--section-bg);
+    color: var(--section-color);
+}
+.location i{
+    color: var(--main-color);
+}

@@ -1,0 +1,25 @@
+.Cart .product{
+    background-color: #fff;
+}
+.Cart .product img{
+    width: 80px;
+    height: 80px;
+}
+.Cart .process button{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+}
+.Cart .process span{
+    font-size: 18px;
+}
+.Cart .totall{
+    background-color: #fff;
+    
+}
